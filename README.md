@@ -143,7 +143,6 @@ Examines default rates across borrower and credit characteristics, including:
 ### 3. Loan Characteristics & Default
 
 Analyzes default rates across:
-
 - Loan amount
 - Interest rate
 - Loan term
@@ -165,7 +164,6 @@ Defaulted + Did Not Default Loans
 This prevents active or unresolved loans from being incorrectly treated as non-defaulted loans.
 
 ## Key Insights
-
 The dashboard highlights several notable patterns in the loan portfolio:
 
 - **DTI shows a clear variation in default rates.** Default rates increase from about **15% for borrowers with DTI below 10%** to approximately **34% for borrowers with DTI between 40–50%**, before declining for the highest DTI bands.
@@ -188,7 +186,6 @@ The dashboard highlights several notable patterns in the loan portfolio:
 
 
 ## Skills Demonstrated
-
 ### Python
 
 - Pandas
@@ -197,7 +194,6 @@ The dashboard highlights several notable patterns in the loan portfolio:
 - Jupyter Notebook
 
 ### Power BI
-
 - Data modeling
 - DAX
 - Calculated columns
@@ -206,7 +202,6 @@ The dashboard highlights several notable patterns in the loan portfolio:
 - Time-based analysis
 
 ### Business Analytics
-
 - Data cleaning
 - Exploratory data analysis
 - Credit risk analysis
@@ -215,7 +210,6 @@ The dashboard highlights several notable patterns in the loan portfolio:
 - Business storytelling
 
 ## Conclusion
-
 This project demonstrates how combining **borrower risk analysis and loan characteristics** can provide a clearer understanding of loan default patterns.
 
 The analysis highlights differences in observed default rates across **DTI, income, interest rate, loan amount, term, grade, and loan purpose**, providing insight into areas of higher observed credit risk within the loan portfolio.
