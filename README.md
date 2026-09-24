@@ -53,7 +53,7 @@ Power BI Analysis
         ↓
 Interactive Dashboard
 
-
+```text
 ### Data Cleaning & EDA
 
 Python and Pandas were used to:
