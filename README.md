@@ -1,3 +1,20 @@
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Data & Methodology](#data--methodology)
+  - [Data Cleaning & EDA](#data-cleaning--eda)
+  - [Loan Outcome Classification](#loan-outcome-classification)
+  - [Power BI Analysis](#power-bi-analysis)
+- [Dashboard](#dashboard)
+  - [Portfolio Overview](#1-portfolio-overview)
+  - [Borrower Risk Analysis](#2-borrower-risk-analysis)
+  - [Loan Characteristics & Default](#3-loan-characteristics--default)
+- [Key Insights](#key-insights)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Conclusion](#conclusion)
+
 # Lending Club Loan Default Analysis
 
 ## Executive Summary
@@ -8,7 +25,6 @@ This project analyzes the **Lending Club loan dataset** to examine borrower char
 
 Loan outcomes were classified as **Defaulted**, **Did Not Default**, or **Outcome Unknown**. Only loans with known outcomes were retained for the Power BI analysis, ensuring that default-rate calculations were based on finalized loans.
 
-
 ## Business Problem
 
 The analysis aims to answer questions such as:
@@ -18,7 +34,6 @@ The analysis aims to answer questions such as:
 - How does DTI relate to default risk?
 - How do interest rate, loan amount, term, grade, and purpose relate to default?
 - How has loan performance changed over time?
-
 
 ## Project Objectives
 
@@ -31,8 +46,6 @@ The project was designed to:
 - Compare default rates across different borrower and loan segments.
 - Analyze changes in loan volume, loan amounts, interest rates, and default rates over time.
 - Provide an interactive dashboard for exploring loan portfolio and default risk patterns.
-
----
 
 ## Data & Methodology
 
@@ -111,11 +124,10 @@ The Power BI dashboard contains three main analytical areas:
 Provides an executive-level view of:
 
 - Total loans
+- Defaulted Loans
 - Total loan amount
-- Total defaulted loans
+- Defaulted Loan Amount
 - Default rate
-- Average loan amount
-- Average interest rate
 - Yearly portfolio trends
 
 ### 2. Borrower Risk Analysis
@@ -127,7 +139,6 @@ Examines default rates across borrower and credit characteristics, including:
 - DTI
 - Home ownership
 - Verification status
-- Credit characteristics
 
 ### 3. Loan Characteristics & Default
 
@@ -137,7 +148,6 @@ Analyzes default rates across:
 - Interest rate
 - Loan term
 - Grade
-- Sub-grade
 - Loan purpose
 
 ## Default Rate
@@ -150,13 +160,13 @@ Defaulted Loans
 ──────────────────────────── × 100
 Defaulted + Did Not Default Loans
 
-This prevents active or unresolved loans from being incorrectly treated as non-defaulted loans.
+```
 
----
+This prevents active or unresolved loans from being incorrectly treated as non-defaulted loans.
 
 ## Key Insights
 
-The dashboard highlights several notable patterns in the finalized loan portfolio:
+The dashboard highlights several notable patterns in the loan portfolio:
 
 - **DTI shows a clear variation in default rates.** Default rates increase from about **15% for borrowers with DTI below 10%** to approximately **34% for borrowers with DTI between 40–50%**, before declining for the highest DTI bands.
 
@@ -203,7 +213,6 @@ The dashboard highlights several notable patterns in the finalized loan portfoli
 - Portfolio analysis
 - Data visualization
 - Business storytelling
-
 
 ## Conclusion
 
