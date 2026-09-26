@@ -214,7 +214,7 @@ This project demonstrates how combining **borrower risk analysis and loan charac
 
 The analysis highlights differences in observed default rates across **DTI, income, interest rate, loan amount, term, grade, and loan purpose**, providing insight into areas of higher observed credit risk within the loan portfolio.
 
-From a technical perspective, the project showcases an end-to-end workflow using **Python and Power BI**. Python was used for data cleaning, outcome classification, and EDA, while Power BI was used for **DAX, segmentation, visualization, and interactive reporting**.
+The project showcases an end-to-end workflow using **Python and Power BI**. Python was used for data cleaning, outcome classification, and EDA, while Power BI was used for **DAX, segmentation, visualization, and interactive reporting**.
 
 Overall, the project demonstrates the ability to transform a large lending dataset into **clear business insights that support portfolio and credit risk analysis**.
 
