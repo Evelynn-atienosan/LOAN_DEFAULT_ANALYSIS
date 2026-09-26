@@ -221,6 +221,7 @@ Overall, the project demonstrates the ability to transform a large lending datas
 # Dashboard Preview
 
 ## Loan Porfolion & Default Risk Overview
+<img width="1182" height="661" alt="image" src="https://github.com/user-attachments/assets/1afc3458-24c7-4619-86e2-1b3e36c1cc02" />
 
 
 ## Borrower Characteristics and Default Risk
