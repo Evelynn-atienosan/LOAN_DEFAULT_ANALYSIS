@@ -217,3 +217,13 @@ The analysis highlights differences in observed default rates across **DTI, inco
 From a technical perspective, the project showcases an end-to-end workflow using **Python and Power BI**. Python was used for data cleaning, outcome classification, and EDA, while Power BI was used for **DAX, segmentation, visualization, and interactive reporting**.
 
 Overall, the project demonstrates the ability to transform a large lending dataset into **clear business insights that support portfolio and credit risk analysis**.
+
+# Dashboard Preview
+
+## Loan Porfolion & Default Risk Overview
+
+
+## Borrower Characteristics and Default Risk
+
+
+## Loan Charcteristics and Default Risk
